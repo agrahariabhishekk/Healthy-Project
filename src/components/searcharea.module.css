@@ -1,0 +1,12 @@
+.SearchArea {
+  width: 85%;
+  text-align: center;
+  margin-left: 0%;
+  margin-bottom: 5px;
+}
+.button{
+    width:10%;
+    height: 44px;
+    margin-left: 10px;
+    margin-bottom: 7px;
+}
